@@ -181,5 +181,5 @@ pio device monitor  # Open serial monitor
 | Debugging            | GDB Support      | Limited          |
 | Project Structure    | Professional     | Simple           |
 
-Need help with specific sensors or complex project setup? Let me know! 🚀
+
 
